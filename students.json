@@ -1,0 +1,30 @@
+[
+    {
+        "roll": 101,
+        "name": "triman",
+        "age": 22,
+        "course": "BCA",
+        "marks": 90.0
+    },
+    {
+        "roll": 11,
+        "name": "yash",
+        "age": 24,
+        "course": "cse",
+        "marks": 85.0
+    },
+    {
+        "roll": 11,
+        "name": "yashh",
+        "age": 33,
+        "course": "cse",
+        "marks": 85.0
+    },
+    {
+        "roll": 22,
+        "name": "tri",
+        "age": 32,
+        "course": "bca",
+        "marks": 80.0
+    }
+]
