@@ -101,4 +101,18 @@ python main.py
 
 ## 👨‍💻 Author
 
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### View Students
+
+![View Students](screenshots/view_students.png)
+
+### Generate Report
+
+![Report](screenshots/report.png)
+
 **Trimanpreet**
